@@ -1,0 +1,11 @@
+.loader {
+    width: 100%;
+    height: calc(100vh - 100px);
+    /* background-color: #592b83; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mx-2{
+    color: #B23CFD;
+}

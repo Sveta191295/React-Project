@@ -1,0 +1,15 @@
+.tasks-wrapper {
+    /* margin-top: 40px; */
+    /* display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+    justify-content: center; */
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+
+}
+.tasks-wrapper>div{
+    margin-top: 40px;
+}

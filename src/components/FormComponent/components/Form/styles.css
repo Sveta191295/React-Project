@@ -1,0 +1,20 @@
+.form{
+    max-width:600px;
+    margin: 50px auto;
+    display: grid;
+}
+.form-btn{
+  
+    margin: 20px auto;
+}
+.alert{
+    max-width: 500px;
+    margin: 30px auto;
+    color: #ffffff;
+    background-color: #ba7bbc;
+    text-align: center;
+}
+.alert-secondary{
+    background-color: #ba7bbc;
+
+}

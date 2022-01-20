@@ -1,0 +1,24 @@
+.project-container{
+    width: 100%;
+    min-height: calc(100vh - 100px);
+    background-color: #592b83;
+
+    
+}
+.heading1{
+    padding-top: 40px;
+    text-align: center;
+    color:#e2def1;
+    
+}
+.add-task-btn {
+    /* background-color: #49266c !important;
+    border: #401f5f !important; */
+    /* width: 150px;
+    height: 50px; */
+    margin-left: 50px;
+}
+.add-icon{
+    color: #e2def1;
+    margin-left: 50px;
+}
